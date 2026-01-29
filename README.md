@@ -8,6 +8,12 @@ O objetivo principal é compreender o comportamento das variáveis, identificar 
 
 ---
 
+## 📌 Vídeo de apresentação no YouTube
+
+https://www.youtube.com/watch?v=SfakB2_h0p4
+
+---
+
 ## 📊 Dataset
 
 * **Nome:** Gestational Diabetes Dataset
